@@ -1,6 +1,9 @@
 # Custom Commands Bot
 This bot was created for an application.
 
+# Description
+This bot can create custom commands for each server, with a custom prefix, and has several moderation commands. 
+
 ## Features
 ### Moderation
 #### Commands:
@@ -29,3 +32,7 @@ This bot was created for an application.
 ### Other
 - `DataBase` - MongoDB
 - `Language` - JavaScript
+
+## Credits
+Made by:
+* [TechG](https://github.com/TechG2)
